@@ -1,0 +1,25 @@
+/* PHASE 3: Layout */
+.content {
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  border: 1px solid lightgray;
+  border-top: none
+
+}
+
+.content-sidebar {
+  width: 25%;
+  height: 200px;
+  background-color: white;
+  border-right: 1px solid lightgray
+}
+
+.content-main {
+  width: 75%;
+  height: 200px;
+  background-color: white;
+}
+
+
